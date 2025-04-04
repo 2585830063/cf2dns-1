@@ -1,1 +1,16 @@
-{"type": "v4","ipv4": "on","ipv6": "on" , "dns_server": 3, "cdn_server": 1, "affect_num": 5, "region_hw": "cn-east-3", "region_ali": "cn-hongkong", "ttl": 300, "secretid": "HPUA2KW7CW9RN504XJQA", "secretkey": "QqDJC5BwKclwKyRXqFt4ZcePhgQBajbKz04NPoLi", "key": "o1zrmHAF", "data_server": 1, "integral": 99999999}
+{
+    "type": "v4",
+    "ipv4": "on",
+    "ipv6": "on",
+    "dns_server": 3,
+    "cdn_server": 1,
+    "affect_num": 5,
+    "region_hw": "cn-east-3",
+    "region_ali": "cn-hongkong",
+    "ttl": 300,
+    "secretid": "HPUA2KW7CW9RN504XJQA",
+    "secretkey": "QqDJC5BwKclwKyRXqFt4ZcePhgQBajbKz04NPoLi",
+    "key": "o1zrmHAF",
+    "data_server": 1,
+    "integral": 99999999
+}
