@@ -8,7 +8,7 @@ import sys,os,json,requests,time,base64,shutil,random,traceback
 random_time = random.uniform(10, 100)
 print("本次将等待{}秒执行".format(random_time))
 # 延迟执行随机时间
-time.sleep(random_time)
+#time.sleep(random_time)
 
 # 获取当前目录
 current_dir = os.path.dirname(__file__)
